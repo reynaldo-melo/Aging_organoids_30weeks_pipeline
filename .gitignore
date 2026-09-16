@@ -1,0 +1,17 @@
+# Knit / run outputs (generated when the pipeline is executed)
+*.html
+Figures/
+Restructured_results/
+
+# R session / data artifacts
+.Rhistory
+.RData
+.RDataTmp*
+*.rds
+*.rda
+.Rproj.user/
+.Rproj
+
+# OS / editor
+.DS_Store
+Thumbs.db
